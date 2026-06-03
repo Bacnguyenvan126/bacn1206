@@ -1,1 +1,1 @@
-"day code len" 
+"nnn" 
